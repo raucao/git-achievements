@@ -2,6 +2,8 @@
 <title>Sebastian Kippe's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Banker (Level 1)</title><description>Join two or more development histories together with git merge.</description></item>
+<item><title>Apprentice Blacksmith (Level 2)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Author (Level 3)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
 <item><title>Apprentice Blacksmith (Level 1)</title><description>Created a branch using git checkout -b.</description></item>
